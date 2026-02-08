@@ -47,7 +47,7 @@ const QuestionPage = () => {
         <div className="flex-1 flex flex-col">
           <div style={{ filter: 'grayscale(80%)' }} className="h-80 rounded-3xl overflow-hidden shadow-2xl mb-6">
             <ImageWithFallback
-              src="components/assets/IMG_5162.jpeg"
+              src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&q=80"
               alt="Personne seule"
               width={500}
               height={400}
